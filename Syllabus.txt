@@ -1,12 +1,11 @@
-
-Course Number: 
+ENGS-1P01D2
 Term/Year/Duration: Fall/2021/September - December
 Course Title: The Humanist Engineer
  
 Instructor Name: 	Troy David Ouellette, PhD
-Email:	touellette@brocku.ca 
-On-line Location:         Brock Sakai Website: https://lms.brocku.ca/portal/site 
-Times and Locations: Every Tuesday of the Semester
+Email:	
+On-line Locations:
+Times and Locations: 
 As per the Brock University glossary, unless otherwise noted, this course does not require that you attend at a specific time, but will still have deadlines that you will need to adhere to. Make sure you set reminders for yourself to complete all course work on time! When looking at an asynchronous course, you may be wondering why it still has a specified time. This is to allow the instructor the option of using the time as office hours or a meet-time if needed. Instructors may or may not choose to use the time set. There may be some occasions where we may all need to meet through video conferencing or one-on-one at a designated time – this will be announced on the Sakai website and/or communicated through email. 
  
 Course Calendar Description:
